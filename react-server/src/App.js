@@ -29,7 +29,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React with the
+            Learn React with first app
           </a>
           <button onClick={() => this.onButtonClick()}>Click the {this.state.hi}</button>
         </header>
